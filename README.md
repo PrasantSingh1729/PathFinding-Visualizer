@@ -1,4 +1,4 @@
-# Path Finding Viualizer
+# Path Finding Visualizer
 In this project, you can visualize Path Finding algorithms like 
 - A* 
 - Dijkstra 
