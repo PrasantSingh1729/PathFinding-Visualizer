@@ -6,3 +6,5 @@ In this project, you can visualize Path Finding algorithms like
 - Breadth-First Search(BFS) 
 - Depth-First Search (DFS)
 - Jump point
+
+Link - https://prasantsingh1729.github.io/PathFinding-Visualizer/
